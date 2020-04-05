@@ -3,10 +3,6 @@ import 'package:flutter/cupertino.dart';
 import 'coin_data.dart';
 import 'dart:io' show Platform;
 
-import 'coin_data.dart';
-import 'coin_data.dart';
-import 'coin_data.dart';
-
 class PriceScreen extends StatefulWidget {
   @override
   _PriceScreenState createState() => _PriceScreenState();
